@@ -1,0 +1,216 @@
+<html>
+
+<!-- Mirrored from www.sordum.org/files/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Jun 2019 03:18:25 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <title>BlueLife Contact Form</title>
+    <meta http-equiv='content-type' content='text/html; charset=UTF-8'>
+	<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=2'>
+	<meta name='apple-mobile-web-app-capable' content='yes'>
+	<meta name='apple-mobile-web-app-status-bar-style' content='black'>
+	<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='keywords' content='BlueLife Contact Form<'>
+    <meta name='description' content='BlueLife Contact Form'>
+    <meta name='generator' content='BlueLife Contact Form'>
+</head>
+<body>
+<style type='text/css'>
+
+body{
+    margin-left: 18px;
+    margin-top: 18px;
+}
+
+body{
+    font-family : Verdana, Arial, Helvetica, sans-serif;
+    font-size : 13px;
+    color : #474747;
+    background-color: transparent;
+}
+
+required {
+    background-color: #E4F0F8;
+    border-color: #009A00;
+}
+
+
+ol.mail_form{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
+
+ol.mail_form input, ol.mail_form textarea, ol.mail_form select{
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+ol.mail_form li{
+    margin-bottom:5px;
+    clear:both;
+    display:block;
+    overflow:hidden;
+	width: 100%;
+}
+
+.mail_form_button,.mail_form_text,.mail_form_text_msg,.mail_form_err {
+	width: 380px;
+	min-width:150px;
+	max-width:100%;
+	border: 1px solid #ccc;
+    display: block;
+    float: left;
+	margin-bottom: 10px;
+}
+
+.mail_form_text,.mail_form_text_msg,.mail_form_err {
+    background: #fff;
+    font-size: 14px;
+    padding: 7px 1%;
+}
+
+.mail_form_text_msg{
+    height:120px;
+	max-height:250px;
+	max-width:100%;
+	min-width:150px;
+	min-height:30px;
+}
+
+.mail_form_button {
+    padding: 10px 25px;
+    font-weight: bold;
+    background-color: #FAFBFC;
+	margin-top: 10px;
+}
+
+.mail_form_scode,.mail_form_scode_err {
+    width: 300px;
+    border: 1px solid #E1E1E1;
+    background: #fff;
+	min-width:75px;
+	max-width:100%;
+	float: left;
+    padding: 7px 1%;
+    font-size: 14px;
+	font-weight: bold;
+    text-transform: uppercase;
+	text-align: center;
+}
+
+.mail_form_scode_err {
+	background-color: #FFF2F2;
+	border: 1px solid #FF0000;
+}
+
+.mail_form_text:focus,.mail_form_text_msg:focus,.mail_form_scode:focus,.mail_form_err:focus,.mail_form_scode_err:focus {
+	border-color: #009A00;
+}
+
+.mail_form_text:hover,.mail_form_text_msg:hover,.mail_form_err:hover.mail_form_scode_err:focus {
+}
+
+.mail_form_button:hover {
+    background-color: #E4F0F8;
+    border-color: #009A00;
+}
+
+.mail_form_err {
+	background-color: #FFF2F2;
+	border: 1px solid #FF0000;
+}
+
+input:required,textarea:required {
+    box-shadow:none;
+}
+input:invalid,textarea:invalid {
+    box-shadow:0 0 0px red;
+}
+</style>
+
+<script type='text/javascript'>
+function _frm_msg(msg) {
+	if (msg == 1) {
+		_frm_msg(0);
+		document.getElementById('form_scode').value = '';
+		document.getElementById('status_msg1').style.display='block';
+	} else if (msg == 2) {
+		_frm_msg(0);
+		document.getElementById('status_msg2').style.display='block';
+		document.getElementById('send_form_button').disabled=true;
+	} else if (msg == 3) {
+		_frm_msg(0);
+		_frm_clear();
+		document.getElementById('status_msg3').style.display='block';
+	} else if (msg == 4) {
+		_frm_msg(0);
+		document.getElementById('form_scode').value = '';
+		document.getElementById('form_scode').focus();
+		document.getElementById('status_msg4').style.display='block';
+	} else {
+		document.getElementById('status_msg1').style.display='none';
+		document.getElementById('status_msg2').style.display='none';
+		document.getElementById('status_msg3').style.display='none';
+		document.getElementById('status_msg4').style.display='none';
+		document.getElementById('send_form_button').disabled=false;
+	}
+}
+
+function _frm_clear() {
+	document.getElementById('form_name').value = '';
+	document.getElementById('form_mail').value = '';
+	document.getElementById('form_subject').value = '';
+	document.getElementById('form_message').value = '';
+	document.getElementById('form_scode').value = '';
+}
+</script>
+
+
+<form action='#' method='POST' enctype='multipart/form-data' onsubmit='return fmgHandler.onSubmit(this);'>
+
+<ol class='mail_form' >
+<li>
+	<label><b>Name <font color='#FF0000'>*</font></b></label>
+	<div><input type='text' name='form_name'  id='form_name' value='' class='mail_form_text' required></div>
+</li>
+
+<li>
+	<label><b>Email<font color='#FF0000'>*</font></b></label>
+	<div><input type='text' name='form_mail'  id='form_mail' value='' class='mail_form_text' required></div>
+</li>
+
+<li>
+	<label><b>Subject<font color='#FF0000'>*</font></b></label>
+	<div><input type='text' name='form_subject'  id='form_subject' value='' class='mail_form_text' required></div>
+</li>
+
+<li>
+	<label><b>Message<font color='#FF0000'>*</font></b></label>
+	<div><textarea name='form_message' id='form_message' rows=4 cols=25 class='mail_form_text_msg' required></textarea></div>
+</li>
+<li>
+	<label><b>Security Code<font color='#FF0000'>*</font></b></label>
+	<div>
+	<input type='text' autocomplete='off' name='form_scode' id='form_scode' value='' maxlength='4' class='mail_form_scode' required>
+	<input type='hidden' autocomplete='off' name='form_scode_id' id='form_scode_id' readonly value='5e919c41312e68a9d3cf2d6aad4d6fa3'>
+	<img src='image906e.png?prefix=5a54f2cb6fa8051a07617790d1e14538' border='0' height='33' width='73' alt='Security Code' title='Security Code' style='display:block;position: relative;float: left;margin-left: 7px;'>
+	</div>
+</li>
+<li>
+	<input type='submit' value='Submit' class='mail_form_button' id='send_form_button'>
+</li>
+</ol>
+<div id='status_msg1' style='display:none;'>
+	<p><font color='#FF0000'><b>Please check the required fields!</b></font></p>
+</div>
+<div id='status_msg2' style='display:none;'>
+	<p><font color='#0000FF'><b>Sending your message. Please wait...</b></font></p>
+</div>
+<div id='status_msg3' style='display:none;'>
+	<p><font color='#008000'><b>Your message has been sent. Thank you!</b></font></p>
+</div>
+<div id='status_msg4' style='display:none;'>
+	<p><font color='#FF0000'><b>An error occurred trying to send your message! Please try again.</b></font></p>
+</div>
+</form>

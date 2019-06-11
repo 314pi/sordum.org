@@ -1,0 +1,166 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Jun 2019 10:01:40 at https://www.sordum.org/ +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.sordum.org/ -O1 "C:\My Web Sites\sordum" +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:06:03	Error: 	"Error when decompressing" (-1) at link https://www.sordum.org/6423/tunnel-adapter-–-microsoft-6to4-adapter-remover/ (from https://www.sordum.org/)
+10:07:12	Warning: 	Moved Permanently for https://www.sordum.org/9307/show-disk-partition-stye-v1-0/
+10:07:12	Warning: 	File has moved from https://www.sordum.org/9307/show-disk-partition-stye-v1-0/ to https://www.sordum.org/9307/show-disk-partition-style-v1-0/
+10:18:22	Warning: 	Moved Permanently for https://www.sordum.org/?p=9687
+10:18:22	Warning: 	File has moved from https://www.sordum.org/?p=9687 to https://www.sordum.org/hashgenerator/
+10:18:22	Warning: 	Moved Permanently for https://www.sordum.org/?p=9748
+10:18:22	Warning: 	File has moved from https://www.sordum.org/?p=9748 to https://www.sordum.org/passwordgenerator/
+10:18:24	Warning: 	Moved Permanently for https://www.sordum.org/?p=9732
+10:18:24	Warning: 	File has moved from https://www.sordum.org/?p=9732 to https://www.sordum.org/convertcase/
+10:18:24	Warning: 	Moved Permanently for https://www.sordum.org/?p=9774
+10:18:24	Warning: 	File has moved from https://www.sordum.org/?p=9774 to https://www.sordum.org/base64-decode-encode/
+10:18:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=9788
+10:18:25	Warning: 	File has moved from https://www.sordum.org/?p=9788 to https://www.sordum.org/html-entity-decode-encode/
+10:18:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=9758
+10:18:25	Warning: 	File has moved from https://www.sordum.org/?p=9758 to https://www.sordum.org/url-decode-encode/
+10:18:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=9601
+10:18:25	Warning: 	File has moved from https://www.sordum.org/?p=9601 to https://www.sordum.org/my-ip-address/
+10:18:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=8809
+10:18:25	Warning: 	File has moved from https://www.sordum.org/?p=8809 to https://www.sordum.org/contact-us/
+10:18:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=8814
+10:18:25	Warning: 	File has moved from https://www.sordum.org/?p=8814 to https://www.sordum.org/donate/
+10:18:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=7941
+10:18:25	Warning: 	File has moved from https://www.sordum.org/?p=7941 to https://www.sordum.org/7941/askadmin-v1-6/
+10:18:36	Warning: 	Moved Permanently for https://www.sordum.org/?p=10997
+10:18:36	Warning: 	File has moved from https://www.sordum.org/?p=10997 to https://www.sordum.org/10997/backup-start-menu-layout-v1-2/
+10:18:38	Warning: 	Moved Permanently for https://www.sordum.org/?p=8110
+10:18:38	Warning: 	File has moved from https://www.sordum.org/?p=8110 to https://www.sordum.org/8110/registry-key-jumper-v1-3/
+10:18:39	Warning: 	Moved Permanently for https://www.sordum.org/?p=9470
+10:18:39	Warning: 	File has moved from https://www.sordum.org/?p=9470 to https://www.sordum.org/9470/windows-update-blocker-v1-2/
+10:18:45	Warning: 	Moved Permanently for https://www.sordum.org/?p=9480
+10:18:45	Warning: 	File has moved from https://www.sordum.org/?p=9480 to https://www.sordum.org/9480/defender-control-v1-5/
+10:18:46	Warning: 	Moved Permanently for https://www.sordum.org/?p=10124
+10:18:46	Warning: 	File has moved from https://www.sordum.org/?p=10124 to https://www.sordum.org/10124/folder-painter-v1-2/
+10:18:47	Warning: 	Moved Permanently for https://www.sordum.org/?p=9432
+10:18:47	Warning: 	File has moved from https://www.sordum.org/?p=9432 to https://www.sordum.org/9432/dns-lock-v1-4/
+10:18:57	Warning: 	Moved Permanently for https://www.sordum.org/?p=7952
+10:18:57	Warning: 	File has moved from https://www.sordum.org/?p=7952 to https://www.sordum.org/7952/dns-jumper-v2-1/
+10:19:05	Warning: 	Moved Permanently for https://www.sordum.org/?p=7615
+10:19:05	Warning: 	File has moved from https://www.sordum.org/?p=7615 to https://www.sordum.org/7615/easy-context-menu-v1-6/
+10:19:09	Warning: 	Moved Permanently for https://www.sordum.org/?p=8125
+10:19:09	Warning: 	File has moved from https://www.sordum.org/?p=8125 to https://www.sordum.org/8125/firewall-app-blocker-fab-v1-6/
+10:19:16	Warning: 	Moved Permanently for https://www.sordum.org/?p=8637
+10:19:16	Warning: 	File has moved from https://www.sordum.org/?p=8637 to https://www.sordum.org/8637/easy-service-optimizer-v1-2/
+10:19:18	Warning: 	Moved Permanently for https://www.sordum.org/?p=8266
+10:19:18	Warning: 	File has moved from https://www.sordum.org/?p=8266 to https://www.sordum.org/8266/bluelifehosts-editor-v1-2/
+10:19:19	Warning: 	Moved Permanently for https://www.sordum.org/?p=8366
+10:19:19	Warning: 	File has moved from https://www.sordum.org/?p=8366 to https://www.sordum.org/8366/reicon-v1-9-restore-desktop-icon-layouts/
+10:19:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=8127
+10:19:25	Warning: 	File has moved from https://www.sordum.org/?p=8127 to https://www.sordum.org/8127/dns-angel-v1-6/
+10:19:31	Warning: 	Moved Permanently for https://www.sordum.org/?p=8104
+10:19:31	Warning: 	File has moved from https://www.sordum.org/?p=8104 to https://www.sordum.org/8104/ratool-v1-3-removable-access-tool/
+10:19:38	Warning: 	Moved Permanently for https://www.sordum.org/?p=8117
+10:19:38	Warning: 	File has moved from https://www.sordum.org/?p=8117 to https://www.sordum.org/8117/ntfs-drive-protection-v1-5/
+10:19:40	Warning: 	Moved Permanently for https://www.sordum.org/?p=7763
+10:19:40	Warning: 	File has moved from https://www.sordum.org/?p=7763 to https://www.sordum.org/7763/qemu-simple-boot-v1-3/
+10:19:42	Warning: 	Moved Permanently for https://www.sordum.org/?p=8585
+10:19:42	Warning: 	File has moved from https://www.sordum.org/?p=8585 to https://www.sordum.org/8585/webcam-on-off-v1-3/
+10:19:44	Warning: 	Moved Permanently for https://www.sordum.org/?p=9312
+10:19:44	Warning: 	File has moved from https://www.sordum.org/?p=9312 to https://www.sordum.org/9312/edge-blocker-v1-4/
+10:20:01	Warning: 	Moved Permanently for https://www.sordum.org/?p=8478
+10:20:01	Warning: 	File has moved from https://www.sordum.org/?p=8478 to https://www.sordum.org/8478/reg-converter-v1-2/
+10:20:04	Warning: 	Moved Permanently for https://www.sordum.org/?p=8727
+10:20:04	Warning: 	File has moved from https://www.sordum.org/?p=8727 to https://www.sordum.org/8727/runastool-v1-4/
+10:20:09	Warning: 	Moved Permanently for https://www.sordum.org/?p=7921
+10:20:09	Warning: 	File has moved from https://www.sordum.org/?p=7921 to https://www.sordum.org/7921/bluelife-keyfreeze-v1-4-block-keyboard-and-mouse/
+10:20:11	Warning: 	Moved Permanently for https://www.sordum.org/?p=8486
+10:20:11	Warning: 	File has moved from https://www.sordum.org/?p=8486 to https://www.sordum.org/8486/simple-run-blocker-v1-5/
+10:20:13	Warning: 	Moved Permanently for https://www.sordum.org/?p=9197
+10:20:13	Warning: 	File has moved from https://www.sordum.org/?p=9197 to https://www.sordum.org/9197/reduce-memory-v1-2/
+10:20:14	Warning: 	Moved Permanently for https://www.sordum.org/?p=8501
+10:20:14	Warning: 	File has moved from https://www.sordum.org/?p=8501 to https://www.sordum.org/8501/drive-letter-changer-v1-3/
+10:20:15	Warning: 	Moved Permanently for https://www.sordum.org/?p=10411
+10:20:15	Warning: 	File has moved from https://www.sordum.org/?p=10411 to https://www.sordum.org/10411/router-default-password-v1-0/
+10:20:16	Warning: 	Moved Permanently for https://www.sordum.org/?p=9416
+10:20:16	Warning: 	File has moved from https://www.sordum.org/?p=9416 to https://www.sordum.org/9416/powerrun-v1-3-run-with-highest-privileges/
+10:20:18	Warning: 	Moved Permanently for https://www.sordum.org/?p=8705
+10:20:18	Warning: 	File has moved from https://www.sordum.org/?p=8705 to https://www.sordum.org/8705/simple-vhd-manager-v1-3/
+10:20:21	Warning: 	Moved Permanently for https://www.sordum.org/?p=10830
+10:20:21	Warning: 	File has moved from https://www.sordum.org/?p=10830 to https://www.sordum.org/10830/sendto-menu-editor-v1-1/
+10:20:22	Warning: 	Moved Permanently for https://www.sordum.org/?p=9190
+10:20:22	Warning: 	File has moved from https://www.sordum.org/?p=9190 to https://www.sordum.org/9190/temp-cleaner-v1-2/
+10:20:23	Warning: 	Moved Permanently for https://www.sordum.org/?p=9660
+10:20:23	Warning: 	File has moved from https://www.sordum.org/?p=9660 to https://www.sordum.org/9660/net-disabler-v1-0/
+10:20:25	Warning: 	Moved Permanently for https://www.sordum.org/?p=9194
+10:20:25	Warning: 	File has moved from https://www.sordum.org/?p=9194 to https://www.sordum.org/9194/rebuild-shell-icon-cache-v1-1/
+10:20:26	Warning: 	Moved Permanently for https://www.sordum.org/?p=9203
+10:20:26	Warning: 	File has moved from https://www.sordum.org/?p=9203 to https://www.sordum.org/9203/update-time-v1-2/
+10:20:27	Warning: 	Moved Permanently for https://www.sordum.org/?p=9192
+10:20:27	Warning: 	File has moved from https://www.sordum.org/?p=9192 to https://www.sordum.org/9192/restart-explorer-v1-4/
+10:20:31	Warning: 	Moved Permanently for https://www.sordum.org/?p=8058
+10:20:31	Warning: 	File has moved from https://www.sordum.org/?p=8058 to https://www.sordum.org/8058/bpuzzle-v1-1/
+10:20:32	Warning: 	Moved Permanently for https://www.sordum.org/?p=9182
+10:20:32	Warning: 	File has moved from https://www.sordum.org/?p=9182 to https://www.sordum.org/9182/windows-topmost-control/
+10:20:36	Warning: 	Moved Permanently for https://www.sordum.org/?p=9199
+10:20:36	Warning: 	File has moved from https://www.sordum.org/?p=9199 to https://www.sordum.org/9199/fix-print-spooler-v1-1/
+10:20:37	Warning: 	Moved Permanently for https://www.sordum.org/?p=9817
+10:20:37	Warning: 	File has moved from https://www.sordum.org/?p=9817 to https://www.sordum.org/9817/reset-data-usage-v1-2/
+10:20:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.sordum.org/downloads/?st-reset-data-usage (from https://www.sordum.org/9817/reset-data-usage-v1-2/)
+10:20:37	Warning: 	Moved Permanently for https://www.sordum.org/?p=10636
+10:20:37	Warning: 	File has moved from https://www.sordum.org/?p=10636 to https://www.sordum.org/10636/defender-injector-v1-1/
+10:20:38	Warning: 	Moved Permanently for https://www.sordum.org/?p=9201
+10:20:38	Warning: 	File has moved from https://www.sordum.org/?p=9201 to https://www.sordum.org/9201/copy-ip-v1-2/
+10:20:39	Warning: 	Moved Permanently for https://www.sordum.org/?p=9205
+10:20:39	Warning: 	File has moved from https://www.sordum.org/?p=9205 to https://www.sordum.org/9205/shut-down-windows-v1-1/
+10:20:40	Warning: 	Moved Permanently for https://www.sordum.org/?p=10772
+10:20:40	Warning: 	File has moved from https://www.sordum.org/?p=10772 to https://www.sordum.org/10772/bluetooth-version-finder-v1-0/
+10:20:41	Warning: 	Moved Permanently for https://www.sordum.org/?p=9502
+10:20:41	Warning: 	File has moved from https://www.sordum.org/?p=9502 to https://www.sordum.org/9502/hibernate-enable-or-disable-v1-2/
+10:20:42	Warning: 	Moved Permanently for https://www.sordum.org/?p=11128
+10:20:42	Warning: 	File has moved from https://www.sordum.org/?p=11128 to https://www.sordum.org/11128/win10-settings-blocker-v1-1/
+10:20:44	Warning: 	Moved Permanently for https://www.sordum.org/?p=9209
+10:20:44	Warning: 	File has moved from https://www.sordum.org/?p=9209 to https://www.sordum.org/9209/vhd-for-context-menu-v1-0/
+10:20:45	Warning: 	Moved Permanently for https://www.sordum.org/?p=9341
+10:20:45	Warning: 	File has moved from https://www.sordum.org/?p=9341 to https://www.sordum.org/9341/show-desktop-icons-v1-0/
+10:20:46	Warning: 	Moved Permanently for https://www.sordum.org/?p=10084
+10:20:46	Warning: 	File has moved from https://www.sordum.org/?p=10084 to https://www.sordum.org/10084/desktop-ini-editor-v1-0/
+10:20:46	Warning: 	Moved Permanently for https://www.sordum.org/?p=9207
+10:20:46	Warning: 	File has moved from https://www.sordum.org/?p=9207 to https://www.sordum.org/9207/find-prime-numbers-v1-1/
+10:20:47	Warning: 	Moved Permanently for https://www.sordum.org/?p=10104
+10:20:47	Warning: 	File has moved from https://www.sordum.org/?p=10104 to https://www.sordum.org/10104/sordum-monitor-off-v1-0/
+10:20:50	Warning: 	Moved Permanently for https://www.sordum.org/?p=10946
+10:20:50	Warning: 	File has moved from https://www.sordum.org/?p=10946 to https://www.sordum.org/10946/sordum-random-password-generator/
+10:20:51	Warning: 	Moved Permanently for https://www.sordum.org/?p=11081
+10:20:51	Warning: 	File has moved from https://www.sordum.org/?p=11081 to https://www.sordum.org/11081/hide-from-uninstall-list-v1-0/
+10:20:53	Warning: 	Moved Permanently for https://www.sordum.org/?p=11263
+10:20:53	Warning: 	File has moved from https://www.sordum.org/?p=11263 to https://www.sordum.org/11263/streams-remover-v1-0/
+10:20:54	Warning: 	Moved Permanently for https://www.sordum.org/?p=9641
+10:20:54	Warning: 	File has moved from https://www.sordum.org/?p=9641 to https://www.sordum.org/privacy-policy/
+10:20:54	Warning: 	Moved Permanently for https://www.sordum.org/?p=8932
+10:20:54	Warning: 	File has moved from https://www.sordum.org/?p=8932 to https://www.sordum.org/eula/
+10:20:54	Warning: 	Moved Permanently for https://www.sordum.org/?p=6423
+10:20:54	Warning: 	File has moved from https://www.sordum.org/?p=6423 to https://www.sordum.org/6423/tunnel-adapter-microsoft-6to4-adapter-remover/
+10:20:57	Warning: 	Moved Permanently for https://www.sordum.org/?p=8803
+10:20:57	Warning: 	File has moved from https://www.sordum.org/?p=8803 to https://www.sordum.org/downloads/
+10:20:57	Warning: 	Moved Permanently for https://www.sordum.org/8486/simple-run-blocker-v1-4/
+10:20:57	Warning: 	File has moved from https://www.sordum.org/8486/simple-run-blocker-v1-4/ to https://www.sordum.org/8486/simple-run-blocker-v1-5/
+10:21:00	Warning: 	Moved Permanently for https://www.sordum.org/?p=9307
+10:21:00	Warning: 	File has moved from https://www.sordum.org/?p=9307 to https://www.sordum.org/9307/show-disk-partition-style-v1-0/
+10:21:01	Warning: 	Moved Permanently for https://www.sordum.org/7952/dns-jumper-v2-1/?page=2/
+10:21:01	Warning: 	File has moved from https://www.sordum.org/7952/dns-jumper-v2-1/?page=2/ to https://www.sordum.org/7952/dns-jumper-v2-1/2/
+10:21:01	Warning: 	Moved Permanently for https://www.sordum.org/7952/dns-jumper-v2-1/?page=3/
+10:21:01	Warning: 	File has moved from https://www.sordum.org/7952/dns-jumper-v2-1/?page=3/ to https://www.sordum.org/7952/dns-jumper-v2-1/3/
+10:21:01	Warning: 	Moved Permanently for https://www.sordum.org/7952/dns-jumper-v2-1/?page=4/
+10:21:01	Warning: 	File has moved from https://www.sordum.org/7952/dns-jumper-v2-1/?page=4/ to https://www.sordum.org/7952/dns-jumper-v2-1/4/
+10:21:18	Warning: 	Moved Permanently for https://www.sordum.org/8117/ntfs-drive-protection-v1-0/
+10:21:18	Warning: 	File has moved from https://www.sordum.org/8117/ntfs-drive-protection-v1-0/ to https://www.sordum.org/8117/ntfs-drive-protection-v1-5/
+10:21:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.sordum.org/8585/webcam-on-off-v1-3/comment-page-3/ (from https://www.sordum.org/8585/webcam-on-off-v1-3/comment-page-2/)
+10:21:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.sordum.org/files/small-tools/EdgeBlock.zip (from https://www.sordum.org/downloads/?st-edge-block)
+10:21:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.sordum.org/8125/firewall-app-blocker-fab-v1-6/comment-page-4/ (from https://www.sordum.org/8125/firewall-app-blocker-fab-v1-6/comment-page-2/)
+10:21:52	Warning: 	Moved Permanently for https://www.sordum.org/7952/dns-jumper-v2-0/2/
+10:21:52	Warning: 	File has moved from https://www.sordum.org/7952/dns-jumper-v2-0/2/ to https://www.sordum.org/7952/dns-jumper-v2-1/
+10:21:52	Warning: 	Moved Permanently for https://www.sordum.org/8127/dns-angel-v1-4/
+10:21:52	Warning: 	File has moved from https://www.sordum.org/8127/dns-angel-v1-4/ to https://www.sordum.org/8127/dns-angel-v1-6/
+10:22:06	Warning: 	Moved Permanently for https://www.sordum.org/8127/dns-angel-v1-2/
+10:22:06	Warning: 	File has moved from https://www.sordum.org/8127/dns-angel-v1-2/ to https://www.sordum.org/8127/dns-angel-v1-6/
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 minutes 27 seconds : 1082 links scanned, 1000 files written (63112362 bytes overall) [49243149 bytes received at 40132 bytes/sec], 19326288 bytes transferred using HTTP compression in 671 files, ratio 24%, 6.4 requests per connection
+(1 errors, 154 warnings, 0 messages)
